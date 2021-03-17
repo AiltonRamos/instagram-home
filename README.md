@@ -2,7 +2,7 @@
 
 # Esse é um desafio do Bootcamp HTML de reconstruir a página inicial do Instagram.
 
-A aula foi conduzida pela especialista **Gabriela Pinheiro** na plataforma da "digitalinnovation.one".
+A aula foi conduzida pela especialista **Gabriela Pinheiro** na plataforma da **digitalinnovation.one**.
 
 Refiz algumas alterações. Espero que gostem.
 
